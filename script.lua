@@ -1,0 +1,1 @@
+for i,v in pairs(game:GetService("Players"):GetPlayers()) do print(i,v) if v.Name == "yes" then print("gamer") end end
